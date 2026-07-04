@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** Deeptech / General AI infrastructure
+**Domain:** AI Foundation & Infra
 **Upstream:** https://github.com/ollama/ollama
 **Fork:** https://github.com/sureshsolannki-ai/ollama
 **Priority:** High
